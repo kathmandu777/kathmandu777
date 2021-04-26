@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm kathmandu</h1>
 <h3 align="center">A passionate backend developer from Japan</h3>
 
+//Profie views
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kathmandu777&label=Profile%20views&color=0e75b6&style=flat" alt="kathmandu777" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kathmandu777" alt="kathmandu777" /></a> </p>
 
 - 🔭 I’m currently working on [sumCTF](https://sumctf.herokuapp.com/)
 
