@@ -20,5 +20,6 @@
 [![](https://raw.githubusercontent.com/kathmandu777/kathmandu777/master/profile-summary-card-output/solarized/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 <h3 align="center">The projects I'd like you to see</h3>
+
 - [3D-connect-four (DQN)](https://github.com/RLSPfinalTaskGroup/3D-connect4)
 - [Barifac](https://github.com/youngeek-0410/Barifac-pre-ver)
