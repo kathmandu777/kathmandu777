@@ -7,7 +7,7 @@
 - Age: 18
 - Location: Japan
 - School: National Institute of Technology Toyota College
-- Favorite programming language: python
+- Favorite programming language: Python
 
 ## My interest
 - I'm learning about ML, especially RL.
@@ -23,10 +23,17 @@
 
 
 ## Analysis:
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=kathmandu777&show_icons=true&theme=default&count_private=true&include_all_commits=true" /></p>
 
-[![](https://raw.githubusercontent.com/kathmandu777/kathmandu777/main/profile-summary-card-output/github/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/kathmandu777/kathmandu777/main/profile-summary-card-output/github/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/kathmandu777/kathmandu777/main/profile-summary-card-output/github/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/kathmandu777/kathmandu777/main/profile-summary-card-output/github/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/kathmandu777/kathmandu777/main/profile-summary-card-output/github/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=kathmandu777&v=2&hide=Other&langs_count=10" alt="wakatime" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kathmandu777&" alt="kathmandu777" /></p>
+
+
+<p><img align="center" src="https://github-profile-trophy.vercel.app/?username=kathmandu777" alt="trophy"/></p>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kathmandu777&layout=compact&theme=default&hide=javascript,html,css" alt="tom langs"/></p>
+
 
 ## Connect with me:
 <p align="left">
