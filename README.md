@@ -2,12 +2,12 @@
 <h3 align="center">A passionate backend developer from Japan</h3>
 
 ## About Me
-- Name: Manato Kato
-- Nickname: kathmandu777
-- Age: 18
-- Location: Japan
-- School: National Institute of Technology Toyota College
-- Favorite programming language: Python
+- :man: Name: Manato Kato
+- :name_badge: Nickname: kathmandu777
+- :eyes: Age: 18
+- :round_pushpin: Location: Japan
+- :school: School: National Institute of Technology Toyota College
+- :sparkling_heart: Favorite programming language: Python
 
 ## My interest
 - I'm learning about ML, especially RL.
