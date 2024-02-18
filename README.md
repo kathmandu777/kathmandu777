@@ -1,42 +1,115 @@
-<h1 align="center">Hi 👋, I'm Manato Kato(kathmandu777)</h1>
-<h3 align="center">A passionate backend developer from Japan</h3>
+## <div align="center">I'm Manato Kato, a passionate backend developer 👨‍💻</div>
 
-## About Me
 - :man: Name: Manato Kato
 - :name_badge: Nickname: kathmandu777
 - :eyes: Age: 20
 - :round_pushpin: Location: Japan
 - :school: School: National Institute of Technology Toyota College
-- :sparkling_heart: Favorite programming language: Python
+- :sparkling_heart: Favorite Programming Language: Python
 
-## My interest
-- I'm learning about ML, especially RL.
-- I'm interested in web development.
-- I'm also interested in security.
-## SKills:
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
+<br />
 
+## My Skill Set
 
-## Badges:
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kathmandu777&label=Profile%20views&color=0e75b6&style=flat" alt="kathmandu777" /> </p>
+<table>
+<tr><td valign="top" width="33%">
 
+### Frontend
 
+<div align="center">  
+<a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
+<a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" /></a>  
+<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
+<a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" /></a>  
+<a href="https://styled-components.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/styled-components.png" alt="Styled Components" height="50" /></a>  
+<a href="https://vuejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/vuejs-original-wordmark.svg" alt="Vue.js" height="50" /></a>  
+<a href="https://chakra-ui.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/chakraui.png" alt="Chakra UI" height="50" /></a>  
+</div>
 
-## Analysis:
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=kathmandu777&show_icons=true&theme=default&count_private=true&include_all_commits=true" /></p>
+</td><td valign="top" width="33%">
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=kathmandu777&v=2&hide=Other&langs_count=10" alt="wakatime" /></p>
+### Backend  
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kathmandu777&" alt="kathmandu777" /></p>
+<div align="center">  
+<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
+<a href="https://flask.palletsprojects.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/flask.png" alt="Flask" height="50" /></a>  
+<a href="https://www.djangoproject.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/django-original.svg" alt="Django" height="50" /></a>  
+<a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" /></a>  
+<a href="https://fastapi.tiangolo.com/" target="_blank"><img style="margin: 10px" src="https://cdn.worldvectorlogo.com/logos/fastapi-1.svg" alt="FastAPI" height="50" /></a>  
+</div>
 
+</td><td valign="top" width="33%">
 
-<p><img align="center" src="https://github-profile-trophy.vercel.app/?username=kathmandu777" alt="trophy"/></p>
+### Others  
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kathmandu777&layout=compact&theme=default&hide=javascript,html,css" alt="tom langs"/></p>
+<div align="center">  
+<a href="https://aws.amazon.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" /></a>  
+<a href="https://cloud.google.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/google_cloud-icon.svg" alt="GCP" height="50" /></a>  
+<a href="https://kubernetes.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/kubernetes-icon.svg" alt="Kubernetes" height="50" /></a>  
+<a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
+<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
+<a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" /></a>  
+<a href="https://www.terraform.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/terraformio-icon.svg" alt="Terraform" height="50" /></a>  
+<a href="https://opencv.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/opencv-icon.svg" alt="OpenCV" height="50" /></a>  
+<a href="https://www.raspberrypi.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/raspberrypi.png" alt="Raspberry Pi" height="50" /></a>  
+<a href="https://www.arduino.cc/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/arduino.png" alt="Arduino" height="50" /></a>  
+<a href="https://firebase.google.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="50" /></a>  
+<a href="https://pytorch.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/pytorch-icon.svg" alt="pytorch" height="50" /></a>  
+<a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" /></a>  
+</div>
 
+</td></tr>
+</table>
 
-## Connect with me:
-<p align="left">
-<a href="https://dev.to/kathmandu" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="kathmandu" height="30" width="40" /></a>
-<a href="https://twitter.com/kathmandumandu" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="kathmandumandu" height="30" width="40" /></a>
-</p>
+<br />
+
+## Connect with me
+
+<div align="center">
+    <a href="https://github.com/kathmandu777" target="_blank">
+        <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white
+            alt=github style="margin-bottom: 5px;" />
+    </a>
+    <a href="https://twitter.com/Kathmandumandu" target="_blank">
+        <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white
+            alt=twitter style="margin-bottom: 5px;" />
+    </a>
+    <a href="https://dev.to/kathmandu777" target="_blank">
+        <img src=https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white
+            alt=devto style="margin-bottom: 5px;" />
+    </a>
+    <a href="https://linkedin.com/in/manato-kato" target="_blank">
+        <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white
+            alt=linkedin style="margin-bottom: 5px;" />
+    </a>
+    <a href="https://www.wantedly.com/id/manato_kato" target="_blank">
+        <img src=https://img.shields.io/badge/wantedly-%230077B5.svg?&style=for-the-badge&logo=wantedly&logoColor=white
+            alt=wantedly style="margin-bottom: 5px;" />
+    </a>
+</div>
+
+<br />
+
+## Github Stats
+
+<div align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=kathmandu777&show_icons=true&count_private=true&hide_border=true" align="center" />
+</div>
+
+<br />
+
+## Wakatime Stats
+
+<div align="center">
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=kathmandu777&v=2&hide=Other&langs_count=10" alt="wakatime" />
+</div>
+
+<br />
+
+---
+<div align="center">
+    <img src="https://komarev.com/ghpvc/?username=kathmandu777&&style=flat-square" align="center" />
+    <a href="https://www.buymeacoffee.com/kathmandu777" target="_blank" style="display: inline-block;">
+        <img src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square&logo=buymeacoffee" align="center" />
+    </a>
+</div>
