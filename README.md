@@ -4,7 +4,7 @@
 ## About Me
 - :man: Name: Manato Kato
 - :name_badge: Nickname: kathmandu777
-- :eyes: Age: 19
+- :eyes: Age: 20
 - :round_pushpin: Location: Japan
 - :school: School: National Institute of Technology Toyota College
 - :sparkling_heart: Favorite programming language: Python
