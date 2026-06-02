@@ -1,10 +1,9 @@
-## <div align="center">I'm Manato Kato, a passionate backend developer 👨‍💻</div>
+## <div align="center">I'm Manato Kato, a passionate developer 👨‍💻</div>
 
 - :man: Name: Manato Kato
 - :name_badge: Nickname: kathmandu777
-- :eyes: Age: 21
+- :eyes: Age: 22
 - :round_pushpin: Location: Japan
-- :school: School: National Institute of Technology Toyota College -> Nagoya University
 - :sparkling_heart: Favorite Programming Language: Python
 
 <br />
