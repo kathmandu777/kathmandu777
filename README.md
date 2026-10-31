@@ -2,7 +2,7 @@
 
 - :man: Name: Manato Kato
 - :name_badge: Nickname: kathmandu777
-- :eyes: Age: 22
+- :eyes: Age: 23
 - :round_pushpin: Location: Japan
 - :sparkling_heart: Favorite Programming Language: Python
 
